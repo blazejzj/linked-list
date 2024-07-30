@@ -2,7 +2,6 @@
 
 This is a simple implementation of a singly linked list in JavaScript. The linked list supports common operations such as append, prepend, remove, insert, and various retrieval methods.
 
----
 ## Features
 
 - append: Add a node to the end of the list.
